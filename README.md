@@ -1,5 +1,5 @@
 ## <h1>Projeto Alura Store</h1>
-<h2>Projeto desenvolvido no curso de CSS Grid do Programa ONE, uma parceria da Oracle junto com a Alura para treinar as ferramentas de HTML e CSS, exercitando também a parte responsiva do site.</h2>
+<h2>Projeto desenvolvido no curso de CSS Grid do Programa ONE, uma parceria da Oracle junto com a Alura para treinar as ferramentas de HTML e CSS, exercitando a parte responsiva do site.</h2>
 
 <img align="center" alt="Projeto Alura Store" src="https://i.postimg.cc/v8SKnrPx/projeto-alura-store.png">
 
