@@ -3,7 +3,7 @@
 
 <img align="center" alt="Projeto Alura Store" src="https://i.postimg.cc/v8SKnrPx/projeto-alura-store.png">
 
-[🔗Clique aqui para acessar o projeto]()
+[🔗Clique aqui para acessar o projeto](https://davivieira10.github.io/projeto-alura-store/)
 
 <b>As ferramentas utilizadas foram:</b>
 <div style="display: inline_block"><br>
